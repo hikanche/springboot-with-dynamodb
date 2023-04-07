@@ -29,8 +29,8 @@ public class DDBConfig {
                 withCredentials(
                         new AWSStaticCredentialsProvider(
                                 new BasicAWSCredentials(
-                                        "AKIATDPLAZOJVEC7C65I",
-                                        "A8JHvS3//tI0ifpoEvDNaycQC62Vl0q3D9/bWqXU"
+                                        "your-access-key",
+                                        "your-secret"
                                 )
                         )
                 )
