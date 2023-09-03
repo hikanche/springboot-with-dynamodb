@@ -16,3 +16,5 @@ public class Department {
     @DynamoDBAttribute
     private String departmentCode;
 }
+git checkout -b new branch
+    
