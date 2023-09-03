@@ -15,4 +15,6 @@ public class Department {
     private String departmentName;
     @DynamoDBAttribute
     private String departmentCode;
+    @DynamoDBAttribute
+    private String location;
 }
